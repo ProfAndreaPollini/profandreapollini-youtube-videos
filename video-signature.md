@@ -1,5 +1,3 @@
-# video signature
-
 Per ogni dubbio o domande commentate pure sotto ⬇️⬇️⬇️
 
 I MIEI CONTATTI WEB
