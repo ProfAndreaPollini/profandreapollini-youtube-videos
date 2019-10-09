@@ -1,7 +1,3 @@
-# YoutubeChannel
+# [Prof. Andrea Pollini Youtube Channel](http://bit.ly/AndreaPolliniYT) video
 
-
-## Signature of every video
-
-🌐: http://andreapollini.com 
-💼: https://www.linkedin.com/in/andrea-pollini-024288160/
+Ciao e benvenuto nel repository relativo al mio canale Youtube.
