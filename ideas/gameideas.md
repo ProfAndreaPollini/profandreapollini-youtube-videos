@@ -6,19 +6,19 @@ Sviluppare un gioco con visuale dall'alto in stile [The Realm of God](https://du
 
 Per ogni step decideremo di realizzare una o più demo per studiare le funzionalità e utilizzarle poi nello sviluppo del progetto principale
 
-[ ] disegnare una mappa (manualmente)
-[ ] personaggio e movimento (salta?no,  fa Dodge roll!)
-[ ] elementi ambiente
-[ ] collisioni e interazione ambiente
-[ ] mob e movimenti
-[ ] combattimento
-[ ] health e statistiche
-[ ] HUD
-[ ] inventory
-[ ] quest system
-[ ] dialog system (npc)
-[ ] UI + gestione scene
-[ ] generazione mappa
+- [ ] disegnare una mappa (manualmente)
+- [ ] personaggio e movimento (salta?no,  fa Dodge roll!)
+- [ ] elementi ambiente
+- [ ] collisioni e interazione ambiente
+- [ ] mob e movimenti
+- [ ] combattimento
+- [ ] health e statistiche
+- [ ] HUD
+- [ ] inventory
+- [ ] quest system
+- [ ] dialog system (npc)
+- [ ] UI + gestione scene
+- [ ] generazione mappa
 
 
 
