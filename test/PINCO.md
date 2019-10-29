@@ -1,0 +1,1 @@
+Sfruttiamo questa grande opportunità dello scrivere di musica Rap per interfacciarci con le personalità che popolano l’ambiente, quelle che più hanno esperienza. Cerchiamo così di carpire trucchi, suggerimenti, idee e consigli da condividere con tutti i rapper emergenti con l’intento di aiutare chi vuole iniziare a fare Rap o vuole migliorare metriche, flow e scrittura dei testi.
