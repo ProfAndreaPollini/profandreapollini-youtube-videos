@@ -7,9 +7,10 @@ assignees: ''
 
 ---
 
-# Description of the idea
+# Description of the idea:
 
-# Resources (web pages, video, pdf links)
+
+# Resources (web pages, video, PDF links):
 
 
 # Programming language (if known or relevant):
@@ -19,7 +20,7 @@ assignees: ''
 - [ ] C++
 - [ ] Flutter
 - [ ] Java
-- [ ] Ohter (explain below) 
+- [ ] Other (explain below) 
 
 
-### Notes:
+# Notes:
