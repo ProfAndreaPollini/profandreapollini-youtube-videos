@@ -37,4 +37,4 @@ We hold the right and responsibility to remove comments or other contributions t
 
 # Attribution
 
-This Code of Conduct is adapted from [dev.to](dev.to).
+This Code of Conduct is adapted from [dev.to](https://dev.to/code-of-conduct).
